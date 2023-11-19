@@ -1,4 +1,4 @@
-subprocess   
 sqlite3
 webbrowser
 pywebview
+colorama
