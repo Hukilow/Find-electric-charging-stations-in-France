@@ -24,6 +24,10 @@ try:
     import webview
 except:
     verifyrequirement()
+    import sqlite3
+    import webbrowser
+    from colorama import Fore, Style
+    import webview
 
 
 def main(utilisation):
